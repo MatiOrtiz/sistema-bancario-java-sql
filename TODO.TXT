@@ -1,0 +1,6 @@
+
+Hay una excepcion sin capturar en un controlador, no me acuerdo cual ...
+
+Deshabilitar el botón "confirmar pago" después de pagar todas las cuotas 
+de un prestamo (ya no tiene prestamo vigente) porque queda habilitado y si se 
+presiona de nuevo tira una excepción.
